@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>디벨로이드에 메일 작성하기</title>
+<style>
+body {
+	padding:32px;
+	background:#212121;
+	color:#eeeeee;
+	font-size:36px;
+	text-align:center;
+}
+</style>
+</head>
+<body>
+<p>잠시 후 메일 앱이 열립니다.</p>
+<script>
+  location.href = "mailto:develoid@naver.com"
+                + "?cc="
+				+ "&subject="
+                + "[이벤트] 이벤트 당첨자 입니다."
+                + "&body="
+                + "%40 닉네임 %0D%0A%0D%0A%0D%0A"
+                + "%40 네이버 ID %0D%0A%0D%0A%0D%0A"
+				+ "%40 이름 %0D%0A%0D%0A%0D%0A"
+				+ "%40 전화 %0D%0A%0D%0A%0D%0A"
+				+ "%40 상품 받을 주소 %0D%0A%0D%0A%0D%0A"
+				+ "%40 실물발송 또는 문자발송 유무 %0D%0A%0D%0A%0D%0A";
+</script>
+</body>
+</html>
