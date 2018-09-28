@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-29T01:46:55+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">디벨로이드 운영지원</title><subtitle>스마트 IT 커뮤니티 디벨로이드 운영 보조 사이트 입니다.
+</subtitle><author><name>Develoid</name></author><entry><title type="html">제휴 문의/신청</title><link href="http://localhost:4000/ad.html" rel="alternate" type="text/html" title="제휴 문의/신청" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/ad</id><content type="html" xml:base="http://localhost:4000/ad.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+  location.href = &quot;mailto:develoid@naver.com&quot;
+                + &quot;?cc=&quot;
+				+ &quot;&amp;subject=&quot;
+                + &quot;[제휴] 문의/신청 드립니다&quot;
+                + &quot;&amp;body=&quot;
+                + &quot;&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">이벤트 당첨자</title><link href="http://localhost:4000/event.html" rel="alternate" type="text/html" title="이벤트 당첨자" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/event</id><content type="html" xml:base="http://localhost:4000/event.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[이벤트] 이벤트 당첨자 입니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+              + &quot;%40 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 이름 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 전화 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 상품 받을 주소 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 실물발송 또는 문자발송 유무 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">제작자 소통 채널</title><link href="http://localhost:4000/maker.html" rel="alternate" type="text/html" title="제작자 소통 채널" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/maker</id><content type="html" xml:base="http://localhost:4000/maker.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[제작자 소통 채널] 허가 요청합니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 제작자 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 제작자 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 채팅방 이름 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 채팅방 목적 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 규칙 준수 여부 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">운영 문의</title><link href="http://localhost:4000/op-q.html" rel="alternate" type="text/html" title="운영 문의" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/op-q</id><content type="html" xml:base="http://localhost:4000/op-q.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[운영] 문의드립니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 문의자 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 문의자 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 문의 내용 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">운영 건의</title><link href="http://localhost:4000/op-s.html" rel="alternate" type="text/html" title="운영 건의" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/op-s</id><content type="html" xml:base="http://localhost:4000/op-s.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[운영] 건의드립니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 건의자 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 건의자 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 건의 내용 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">파트너쉽 문의/신청</title><link href="http://localhost:4000/partnership.html" rel="alternate" type="text/html" title="파트너쉽 문의/신청" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/partnership</id><content type="html" xml:base="http://localhost:4000/partnership.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+  location.href = &quot;mailto:develoid@naver.com&quot;
+                + &quot;?cc=&quot;
+				+ &quot;&amp;subject=&quot;
+                + &quot;[파트너쉽] 문의/신청 드립니다&quot;
+                + &quot;&amp;body=&quot;
+                + &quot;&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">서버 등록</title><link href="http://localhost:4000/server-add.html" rel="alternate" type="text/html" title="서버 등록" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/server-add</id><content type="html" xml:base="http://localhost:4000/server-add.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[서버] 등록 요청합니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 서버 이름 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 URL 주소 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 관리자 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 관리자 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 하드웨어 사양 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 OS %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 용량(파일서버 한정) %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 유형 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 목적 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 공식 서버 신청 사유 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">서버 변동</title><link href="http://localhost:4000/server-change.html" rel="alternate" type="text/html" title="서버 변동" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/server-change</id><content type="html" xml:base="http://localhost:4000/server-change.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[지원서버] 변동 신고합니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 서버 이름 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 URL 주소 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 서버 관리자 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 변동사항 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">서버 기준</title><link href="http://localhost:4000/server-rules.html" rel="alternate" type="text/html" title="서버 기준" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/server-rules</id><content type="html" xml:base="http://localhost:4000/server-rules.html">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/postImage/server.png&quot; alt=&quot;Server&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;크게보기&quot;&gt;&lt;a href=&quot;/postImage/server.png&quot;&gt;크게보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>SiRyuA</name></author><summary type="html"></summary></entry><entry><title type="html">스터디 채팅방</title><link href="http://localhost:4000/study-chat.html" rel="alternate" type="text/html" title="스터디 채팅방" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/study-chat</id><content type="html" xml:base="http://localhost:4000/study-chat.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+
+&lt;script&gt;
+location.href = &quot;mailto:develoid@naver.com&quot;
+              + &quot;?cc=&quot;
+      + &quot;&amp;subject=&quot;
+              + &quot;[스터디채팅방] 허가 요청합니다.&quot;
+              + &quot;&amp;body=&quot;
+              + &quot;%40 방장 닉네임 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 방장 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 스터디채팅방 이름 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 스터디채팅방 대화 주제 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 스터디채팅방 목적 %0D%0A%0D%0A%0D%0A&quot;
+      + &quot;%40 규칙 준수 여부 %0D%0A%0D%0A%0D%0A&quot;;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry></feed>
