@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-29T01:46:55+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">디벨로이드 운영지원</title><subtitle>스마트 IT 커뮤니티 디벨로이드 운영 보조 사이트 입니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-29T02:35:32+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">디벨로이드 운영지원</title><subtitle>스마트 IT 커뮤니티 디벨로이드 운영 보조 사이트 입니다.
 </subtitle><author><name>Develoid</name></author><entry><title type="html">제휴 문의/신청</title><link href="http://localhost:4000/ad.html" rel="alternate" type="text/html" title="제휴 문의/신청" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/ad</id><content type="html" xml:base="http://localhost:4000/ad.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
 
 &lt;script&gt;
@@ -66,7 +66,671 @@ location.href = &quot;mailto:develoid@naver.com&quot;
                 + &quot;[파트너쉽] 문의/신청 드립니다&quot;
                 + &quot;&amp;body=&quot;
                 + &quot;&quot;;
-&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">서버 등록</title><link href="http://localhost:4000/server-add.html" rel="alternate" type="text/html" title="서버 등록" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/server-add</id><content type="html" xml:base="http://localhost:4000/server-add.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
+&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry><entry><title type="html">디벨로이드 규칙</title><link href="http://localhost:4000/rules.html" rel="alternate" type="text/html" title="디벨로이드 규칙" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/rules</id><content type="html" xml:base="http://localhost:4000/rules.html">&lt;p&gt;&lt;img src=&quot;https://cafeptthumb-phinf.pstatic.net/MjAxODA3MzBfMTIx/MDAxNTMyOTA4MTQzMTMw.Mf7N-cwb4jZtVBsOiuAo278ctZeAarpKwR-Bx_9GRLEg.nev-DQCil5IohfjkIHu1oRwgSElmxwYwEOxX7GLdv98g.PNG.develoid/%EB%94%94%EB%B2%A8%EA%B7%9C%EC%B9%99_%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w740&quot; alt=&quot;안내이미지&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;1-디벨로이드&quot;&gt;1. 디벨로이드&lt;/h1&gt;
+&lt;p&gt;1.1. 본 네이버 카페는 디벨로이드(영문 표기 DEVELOID)로, IT·개발·정보공유·리뷰를 주제로 하는 커뮤니티이다.&lt;/p&gt;
+
+&lt;p&gt;1.2. 디벨로이드에 가입한 인원을 회원으로 정의하며, 운영 및 관리의 권한을 가지고 있는 회원을 운영진으로 정의한다.&lt;/p&gt;
+
+&lt;p&gt;1.3. 본 규칙은 디벨로이드 내 발생할 수 있는 이슈들에 대해서 일관적이고 즉각적으로 조치하기 위한 운영 기준으로, 디벨로이드 회원 모두가 준수해야 되며, 아래의 규칙들에 대해서 권리와 의무를 진다.&lt;/p&gt;
+
+&lt;p&gt;1.4. 본 규칙에서 건의 또는 이의제기 요소를 발견할 경우, 합당한 논리적 근거를 바탕으로 운영건의 또는 디벨톡톡을 통해서 운영진에게 건의할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;1.5. 본 규칙을 바탕으로 운영진은 디벨로이드를 운영하고 관리해야 한다.&lt;/p&gt;
+
+&lt;p&gt;1.6. 본 규칙을 준수하지 않는 회원을 발견했을 경우, 회원은 운영진에게 디벨모두(톡톡)을 이용하여 전달, 빠른 시간 안에 조치 할 수 있도록 협조를 진행해야 된다.&lt;/p&gt;
+
+&lt;p&gt;1.7. 본 규칙을 바탕으로 활동하였음에도 불구하고 불합리한 조치를 받았다고 생각되는 경우 디벨모두(톡톡)을 통해서 운영진에게 이야기 할 수 있으며, 운영진은 이를 바탕으로 조치를 한 운영진을 제외한 3명의 운영진이 조치에 대해서 재검토 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;1.8. 본 규칙을 지키지 않음으로 발생하는 불이익에 대해서는 디벨로이드는 일절 책임지지 않는다.&lt;/p&gt;
+
+&lt;h1 id=&quot;2-활동규칙&quot;&gt;2. 활동규칙&lt;/h1&gt;
+
+&lt;h3 id=&quot;21-규칙-위반-수정-요청&quot;&gt;2.1. 규칙 위반 수정 요청&lt;/h3&gt;
+&lt;p&gt;2.1.1. 디벨로이드 내 규칙 위반 게시글에 대해서 규칙 위반 수정 요청 게시판으로 이동 조치 및 말머리를 통해 규칙 위반 사항에 대해서 안내를 한다.
+2.1.2. 수정 요청된 게시글은 매일 22시(오후 10시)에 21시(오후 9시) 이전 게시글을 삭제한다.&lt;/p&gt;
+
+&lt;h4 id=&quot;213-공통사항&quot;&gt;&lt;strong&gt;2.1.3. 공통사항&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;단순인증·어그로·무의미·무성의·무분별 게시글&lt;/li&gt;
+  &lt;li&gt;개인의 사생활 또는 신상정보가 유출될 수 있는 경우&lt;/li&gt;
+  &lt;li&gt;글의 본문과 관계없는 이미지 등의 자료가 첨부된 경우&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3.5.-게시글-기준&quot;&gt;게시글 기준(3.5)&lt;/a&gt; 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;디벨로이드 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;디벨로이드 주제와 관련 없는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;214-게시글&quot;&gt;&lt;strong&gt;2.1.4. 게시글&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;게시판 종류 또는 게시판 글 양식, 게시판 규칙에 대해서 지키지 않은 경우&lt;/li&gt;
+  &lt;li&gt;어떠한 사진을 올리고 그것의 정체를 맞추어 보라고 하는 경우&lt;/li&gt;
+  &lt;li&gt;질문 게시판 이외의 게시판에서 질문하는 경우&lt;/li&gt;
+  &lt;li&gt;본인 창작·제작이 아닌 콘텐츠에 대해서 한정공유하는 경우&lt;br /&gt;예시 : 000 배경화면 선착순 공유합니다.&lt;/li&gt;
+  &lt;li&gt;블로그 또는 다른 카페에서 스크랩 시, 본문 스크랩 게시글이 아닌 경우&lt;/li&gt;
+  &lt;li&gt;문제가 있는 이슈게시글에 연장되는 게시글을 작성하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;22-무통보-삭제-대상&quot;&gt;2.2. 무통보 삭제 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;221-공통사항&quot;&gt;2.2.1. 공통사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;원저작권자의 허가 없는 무단 스크랩·복사·사용·공유 또는 2차 수정하여 게시하는 경우&lt;/li&gt;
+  &lt;li&gt;위법·정치·종교·폭력·고인 모욕·선정적·음란·광고·홍보·상업성·도배·허위사실·크랙·비하·비난 등의 내용이 포함된 경우&lt;/li&gt;
+  &lt;li&gt;저격성 게시글&lt;/li&gt;
+  &lt;li&gt;타인을 사칭하는 모든 행위&lt;/li&gt;
+  &lt;li&gt;디벨로이드 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;2회 이상 규칙 위반 수정 요청한 경우에도 수정하지 않은 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;222-댓글&quot;&gt;2.2.2. 댓글&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;글과 관련 없는 내용을 이야기하는 경우&lt;/li&gt;
+  &lt;li&gt;맞춤법을 지적하는 경우 (단, 글 작성자의 요청이 있으면 예외)&lt;br /&gt;예시 : ‘되’가 아니고 ‘돼’입니다.&lt;/li&gt;
+  &lt;li&gt;운영 건의 게시판에 이모티콘을 사용하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;23-활동정지-3일-대상&quot;&gt;2.3. 활동정지 3일 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;231-매너&quot;&gt;2.3.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;존칭표현 및 존댓말(경어체)을 사용하지 않는 경우&lt;br /&gt;예시 : 음슴체(~좀, ~봄, ~함, ~음, ~임), 혼잣말, 반말 등&lt;/li&gt;
+  &lt;li&gt;무분별한 인터넷 유행어를 사용하여 타인에게 내용을 전달할 수 없는 경우&lt;br /&gt;예시 : ㅇㄱㄹㅇ ㅂㅂㅂㄱ, ㅇㅈ? ㅇㅇㅈ 등의 초성체 및 읍읍체 등&lt;/li&gt;
+  &lt;li&gt;이슈 게시글 및 댓글·게시글 내용에 맞지 않는 경우에서 팝콘 등 형태의 이모티콘(스티커·이미지 등)을 다는 경우&lt;/li&gt;
+  &lt;li&gt;타인에게 개인의 의견을 이야기하는 것이 아니라 강요를 하는 경우&lt;br /&gt;예시 : 00 제조사 기기는 절대로 써서는 안 됩니다. 등&lt;/li&gt;
+  &lt;li&gt;규칙 위반 수정 요청에 대해서 편법을 이용하여 회피하려는 경우&lt;br /&gt;예시 : 30자 미만이라 이렇게라도 채우겠습니다. 등&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;232-특수-규칙-위반&quot;&gt;2.3.2. 특수 규칙 위반&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#3.4.-사례금-제공-금지&quot;&gt;사례금 제공 금지(3.4)&lt;/a&gt; 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3.1.-장터-및-거래&quot;&gt;장터 및 거래&lt;/a&gt;(&lt;a href=&quot;#3.1.3.-장터-및-거래-관련-준수해야-하는-내용&quot;&gt;3.1.3&lt;/a&gt; ~ &lt;a href=&quot;#3.1.4.-장터-내-필수-기재해야-하는-내용&quot;&gt;3.1.4&lt;/a&gt;) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;나눔(3.2.1 ~ 3.2.4) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;공동구매(3.1.6) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;24-활동정지-10일-대상&quot;&gt;2.4. 활동정지 10일 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;241-매너&quot;&gt;2.4.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;모든 형태의 구걸을 하는 경우&lt;br /&gt;예시 : 남는 것은 저 하나 주시는 것도…, 저 주면 안될까요? 등&lt;/li&gt;
+  &lt;li&gt;규칙 위반 수정 요청(2.1) 관련 규칙을 하루 5회 이상 지키지 않는 경우&lt;/li&gt;
+  &lt;li&gt;무통보 삭제 대상(2.2) 관련 규칙을 하루 5회 이상 지키지 않는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;242-특수-규칙-위반&quot;&gt;2.4.2. 특수 규칙 위반&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;자료 공유(3.11) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;나눔(3.2.5) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;243-기타&quot;&gt;2.4.3. 기타&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;고의적 파손 행위에 관련된 경우&lt;br /&gt;예시 : 번인 가속화 유도 행위(장기간 스크린 사용 등), 기기를 파손하는 방법에 대한 질문 등&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;25-활동정지-20일-대상&quot;&gt;2.5. 활동정지 20일 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;251-매너&quot;&gt;2.5.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;욕설을 포함한 모든 형태의 비속어(글 또는 댓글로 작성한 욕설, 초성체 욕설, 1:1 채팅, 이미지, 메일, 쪽지, 닉네임, 제작물 이름 등 직·간접 전체)&lt;br /&gt;예시 : 시@, @같네, ㅈ@ 등&lt;/li&gt;
+  &lt;li&gt;모든 형태의 비방 및 비난, 비하 발언&lt;br /&gt;예시 : 헬쥐, 믿고 거른다, 백도어, 알바이신가요? 등&lt;/li&gt;
+  &lt;li&gt;저격성 행위를 하는 경우&lt;br /&gt;예시 : 00가 어쨌네, 저쨌네, 00가 잘못했네 등&lt;/li&gt;
+  &lt;li&gt;문제가 있는 이슈 게시글에 연장되는 게시글을 작성하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;252-특수-규칙-위반&quot;&gt;2.5.2. 특수 규칙 위반&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;나눔(3.2.6) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;스터디채팅방(3.9) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;제작자 소통 채널(3.10) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;친목성 행위(3.6) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;26-활동정지-30일-대상&quot;&gt;2.6. 활동정지 30일 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;261-매너&quot;&gt;2.6.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;분쟁을 일으키는 행위&lt;/li&gt;
+  &lt;li&gt;추가적인 이슈를 발생시키는 행위&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;262-특수-규칙-위반&quot;&gt;2.6.2. 특수 규칙 위반&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;장터 및 거래(3.1.5) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;SNS(3.3) 관련 규칙을 준수하지 않는 경우&lt;/li&gt;
+  &lt;li&gt;공동구매 관련하여 이슈 발생시 문제가 있는 형태의 대응을 한 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;263-운영-관련&quot;&gt;2.6.3. 운영 관련&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진의 운영 활동에 방해되는 행위를 하는 경우&lt;/li&gt;
+  &lt;li&gt;부계정이 적발되는 경우 (활동정지는 본 계정에 해당, 부계정은 재가입 불가 탈퇴)&lt;/li&gt;
+  &lt;li&gt;운영 관련 이슈 희화화(의도적으로 우스꽝스럽게 묘사하거나 풍자)하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;27-무기한-활동정지-및-강등-대상&quot;&gt;2.7. 무기한 활동정지 및 강등 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;271-매너&quot;&gt;2.7.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;3회 이상 이슈를 발생시키는 경우&lt;/li&gt;
+  &lt;li&gt;타인으로 속이는 행위를 하는 경우&lt;/li&gt;
+  &lt;li&gt;허위 사실 유포로 인해 이슈가 발생할 경우&lt;/li&gt;
+  &lt;li&gt;해킹 또는 광고로 의심되는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;272-운영-관련&quot;&gt;2.7.2. 운영 관련&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진의 확인 요청 후 7일 이후에도 답변하지 않는 경우 (단, 이후 답변 시 해제 조치)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;28-재가입-불가조치-대상&quot;&gt;2.8. 재가입 불가조치 대상&lt;/h3&gt;
+
+&lt;h4 id=&quot;281-매너&quot;&gt;2.8.1. 매너&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;원저작권자의 허가 없는 무단 스크랩·복사·사용·공유 또는 2차 수정하여 게시하는 경우&lt;/li&gt;
+  &lt;li&gt;위법·정치·종교·폭력·고인 모욕·선정적·음란·광고·홍보·상업성·도배·크랙·비하·비난 등의 내용이 포함된 경우&lt;/li&gt;
+  &lt;li&gt;카페 내 사기행위&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;282-운영-관련&quot;&gt;2.8.2. 운영 관련&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;부계정이 적발되는 경우(재가입 불가 탈퇴는 부계정에 해당, 본 계정은 활동정지)&lt;/li&gt;
+  &lt;li&gt;SNS 및 온라인 등 디벨로이드 이외의 공간에서 디벨로이드 이름을 사용하여 문제를 일으킨 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;283-위법&quot;&gt;2.8.3. 위법&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;장물 거래 또는 장물을 거래 시도한 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;3-디벨로이드-활동-특수규칙&quot;&gt;3. 디벨로이드 활동 특수규칙&lt;/h1&gt;
+
+&lt;h3 id=&quot;31-장터-및-거래&quot;&gt;3.1. 장터 및 거래&lt;/h3&gt;
+&lt;p&gt;3.1.1. 디벨로이드는 회원간 거래에 대해서 일절 관여하지 않으며, 회원간 거래로 인해 발생한 피해에 대해서 법적으로 어떠한 관계도 없으며, 피해에 대한 책임을 지지 않는다. 단 명확한 자료를 운영진에게 제공할 경우 커뮤니티 내 해당 회원에 대한 제재 요청을 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;3.1.2. 디벨로이드 장터 시스템을 이용해서 거래하는 경우 거래자는 더치트 등을 이용하여 제품 및 제품 판매자에 대해서 꼼꼼히 확인할 필요성이 있다.&lt;/p&gt;
+
+&lt;h4 id=&quot;313-장터-및-거래-관련-준수해야-하는-내용&quot;&gt;3.1.3. 장터 및 거래 관련 준수해야 하는 내용&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;기기 상태 등급 말머리 지정&lt;/li&gt;
+  &lt;li&gt;판매/교환 게시글에 대해서 제목 통일(예시:@@@@ 판매합니다.)&lt;/li&gt;
+  &lt;li&gt;장터 이외의 게시판에서 거래 및 관련 내용 언급 금지&lt;/li&gt;
+  &lt;li&gt;구매(삽니다) 게시글 금지&lt;/li&gt;
+  &lt;li&gt;거래 외 댓글 금지&lt;/li&gt;
+  &lt;li&gt;동일한 거래 건에 대해서 일 1회 초과 게시&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;314-장터-내-필수-기재해야-하는-내용&quot;&gt;3.1.4. 장터 내 필수 기재해야 하는 내용&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;[닉네임 및 아이디 앞 4글자]가 적힌 종이와 함께 촬영된 제품 물품 사진&lt;br /&gt;(거래 완료 후에도 임의삭제는 금지되며, 삭제를 원할 경우 게시글 삭제)&lt;/li&gt;
+  &lt;li&gt;거래 방식(판매/교환)&lt;/li&gt;
+  &lt;li&gt;제품 가격 및 상태(사진 및 글)에 대한 자세한 설명&lt;/li&gt;
+  &lt;li&gt;거래 시 사용할 전화번호(안전번호)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;315-장터-및-거래-관련하여서-하지-말아야-할-행동&quot;&gt;3.1.5. 장터 및 거래 관련하여서 하지 말아야 할 행동&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;카페 채팅 및 메신저 계정을 이용하여 거래 진행(문자 한정)&lt;/li&gt;
+  &lt;li&gt;대리 거래(판매/교환)&lt;/li&gt;
+  &lt;li&gt;구매 가격을 초과한 금액으로의 재판매&lt;br /&gt;(이전 판매자가 증빙자료와 함께 운영진에게 신고했을 경우에 한정하여 조치)&lt;/li&gt;
+  &lt;li&gt;가격 흥정&lt;/li&gt;
+  &lt;li&gt;여러 제품을 합쳐서 거래(판매/교환)를 진행&lt;/li&gt;
+  &lt;li&gt;경매 유도&lt;/li&gt;
+  &lt;li&gt;판매 게시글에서 교환 요청&lt;/li&gt;
+  &lt;li&gt;교환 희망 물품 외 타 물품으로의 교환 요청&lt;/li&gt;
+  &lt;li&gt;사용할 수 없는 제품 거래&lt;/li&gt;
+  &lt;li&gt;거래 글에서 해당 거래 글과 관계없는 거래 진행&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;316-공동구매&quot;&gt;3.1.6. 공동구매&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진 허가 하에 공동구매를 진행 할 수 있다. (디벨톡톡으로 요청)&lt;/li&gt;
+  &lt;li&gt;공동구매의 모든 책임은 공동구매 진행자 개인에게 있다.&lt;/li&gt;
+  &lt;li&gt;공동구매 진행자는 공구시 발생하는 모든 사항 및 이슈에 대해서 세세하게 안내해야 한다.&lt;/li&gt;
+  &lt;li&gt;공동구매 진행자는 연락 방법을 공개해야되며, 모든 문의에 대해서 친절하게 안내해야 된다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;32-나눔&quot;&gt;3.2. 나눔&lt;/h3&gt;
+
+&lt;h4 id=&quot;321-나눔-가능-물품&quot;&gt;3.2.1. 나눔 가능 물품&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;IT 관련된 물품(서적, 기기, 액세서리 등)&lt;/li&gt;
+  &lt;li&gt;온라인 상품권 또는 쿠폰(이모티콘, 상품권, 티켓, 쿠폰)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;322-나눔-진행-시-준수사항&quot;&gt;3.2.2. 나눔 진행 시 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;나눔 하는 자와 나눔 받는 자는 모두 책임감을 갖는다&lt;/li&gt;
+  &lt;li&gt;최대 월 2회 가능&lt;/li&gt;
+  &lt;li&gt;연락처 노출 동의 체크, 안심번호 사용&lt;/li&gt;
+  &lt;li&gt;카페 채팅 외 연락할 수단 명시&lt;/li&gt;
+  &lt;li&gt;나눔 선정 예정일은 나눔 시작일로부터 10일 이내 진행, 단 사유 기재 시 15일까지 연장 가능&lt;/li&gt;
+  &lt;li&gt;나눔 물품이 실물 일 경우 24시간 이내 송장 인증, 비(非) 실물 일 경우 당첨자 연락 후 1시간 이내 전송 인증을 해야 한다. 단 당첨자와 합의 시 시간을 조정하여 연장 가능&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;323-나눔-진행-시-표기-사항&quot;&gt;3.2.3. 나눔 진행 시 표기 사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;택배비&lt;/li&gt;
+  &lt;li&gt;나눔선정방식&lt;/li&gt;
+  &lt;li&gt;[닉네임, 아이디 앞 4글자, 나눔 시작일, 나눔선정 예정일]이 작성된 종이와 물품이 함께 촬영된 사진, 단 비(非)실물일 경우 종이만 촬영&lt;/li&gt;
+  &lt;li&gt;나눔 선정 예정일&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;324-나눔-진행방법&quot;&gt;3.2.4. 나눔 진행방법&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;나눔 진행&lt;/li&gt;
+  &lt;li&gt;선정발표&lt;/li&gt;
+  &lt;li&gt;발송인증&lt;/li&gt;
+  &lt;li&gt;수령인증&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;325-나눔에서-하면-안-되는-것&quot;&gt;3.2.5. 나눔에서 하면 안 되는 것&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;나눔 받은 물품을 중고거래&lt;/li&gt;
+  &lt;li&gt;고의로 나눔 물품에 대해 미수령하는 경우&lt;/li&gt;
+  &lt;li&gt;나눔에 대가를 요구하는 행위&lt;/li&gt;
+  &lt;li&gt;필요 이상의 과도한 개인정보 요구&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;326-기타-나눔-시-참고사항&quot;&gt;3.2.6. 기타 나눔 시 참고사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;나눔 당첨자 발표 후 3시간 이후에도 당첨자와 연락이 되지 않는 경우, 진행자는 다시 선별할 수 있다.&lt;/li&gt;
+  &lt;li&gt;나눔 물품에 문제가 생겨 진행이 어려우면, 시작일로부터 10일 이내 사유와 함께 나눔 중지 글을 올려 참여자에게 알린다.&lt;/li&gt;
+  &lt;li&gt;나눔 발송 인증 후 7일 이내 받지 못했을 경우, 나눔 당첨자는 운영진에게 확인 요청이 가능하며, 나눔 진행자는 운영진 확인 요청 후 7일 이내 답변을 진행해야 한다. 답변 요청으로부터 7일 경과 후 시점부터는 무기한 활동정지를 실시한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;33-sns&quot;&gt;3.3. SNS&lt;/h3&gt;
+
+&lt;h4 id=&quot;331-외부-sns-및-커뮤니티-정의&quot;&gt;3.3.1 외부 SNS 및 커뮤니티 정의&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;페이스북, 트위터, 카카오스토리, 카페, 밴드, 블로그, 글 게시판이 있는 사이트, 카카오톡, 라인, 디스코드, 위키 등 모든 형태의 SNS와 커뮤니티&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;332-외부-sns-및-커뮤니티에서-발생한-모든-이슈-관련&quot;&gt;3.3.2. 외부 SNS 및 커뮤니티에서 발생한 모든 이슈 관련&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨로이드는 일절 관여하지 않는다.&lt;/li&gt;
+  &lt;li&gt;디벨로이드 내 유입을 금지한다.&lt;/li&gt;
+  &lt;li&gt;단, 외부 SNS 및 커뮤니티 운영진으로부터 공식적으로 근거 자료와 함께하여 요청이 온 경우, 검토, 악의적이라 판단될 경우 규칙에 맞추어서 조치를 시행&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;333-외부-sns-및-커뮤니티에서-발생한-이슈가-디벨로이드-내-거론되는-경우&quot;&gt;3.3.3. 외부 SNS 및 커뮤니티에서 발생한 이슈가 디벨로이드 내 거론되는 경우&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;관련 인원에 대해서 전원 조치시행, 단 예외적으로 욕설 등 정신적 피해자에 대해서는 조치 대상에서 제외함&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;334-디벨로이드-내-이슈를-외부-sns-및-커뮤니티로-분출시키는-경우&quot;&gt;3.3.4. 디벨로이드 내 이슈를 외부 SNS 및 커뮤니티로 분출시키는 경우&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;이슈 분출 유저에 대해서 조치를 시행&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;335-디벨로이드-외부에서-디벨로이드에-대해서-근거-없이-비방하는-경우&quot;&gt;3.3.5. 디벨로이드 외부에서 디벨로이드에 대해서 근거 없이 비방하는 경우&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진 판단하에 너무 심한 경우 최대 법적인 조치 취할 수 있다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;34-사례금-제공-금지&quot;&gt;3.4. 사례금 제공 금지&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;IT 관련 개발 및 정보 공유 커뮤니티로, 금전적 거래를 위한 공간이 아님&lt;/li&gt;
+  &lt;li&gt;디벨로이드 내 사기 행위를 사전에 방지하기 위함&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;341-사례금-제공-금지-이유&quot;&gt;3.4.1. 사례금 제공 금지 이유&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;IT 관련 개발 및 정보 공유 커뮤니티로, 금전적 거래를 위한 공간이 아님&lt;/li&gt;
+  &lt;li&gt;디벨로이드 내 사기 행위를 사전에 방지하기 위함&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;342-사례금-종류&quot;&gt;3.4.2. 사례금 종류&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;기프티콘, 현금 등 모든 대가성 제공 항목&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;343-사례금-예시&quot;&gt;3.4.3. 사례금 예시&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;00폰 루팅 해주세요. 기프티콘 드립니다.&lt;/li&gt;
+  &lt;li&gt;00관련 질문합니다. 사례금 제공&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;35-게시글-기준&quot;&gt;3.5. 게시글 기준&lt;/h3&gt;
+
+&lt;h4 id=&quot;351-도배성-게시글&quot;&gt;3.5.1. 도배성 게시글&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;전체 게시판 기준으로 15분 이내 연속된 3개의 같은 내용의 게시글&lt;/li&gt;
+  &lt;li&gt;등업성 목적으로 도배를 하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;352-무성의-게시글&quot;&gt;3.5.2. 무성의 게시글&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;2문장 또는 30자 미만의 짧은 분량의 게시글&lt;/li&gt;
+  &lt;li&gt;제목이 곧 내용(제곧내) 게시글&lt;/li&gt;
+  &lt;li&gt;읽는 이가 자세한 정보가 없어 판단하기 어려운 글&lt;/li&gt;
+  &lt;li&gt;읽은 이가 최소한의 이득이 없는 글&lt;/li&gt;
+  &lt;li&gt;읽는 이에 대해 예의가 없는 글&lt;/li&gt;
+  &lt;li&gt;읽는 이가 글의 의도에 대해 파악하기 힘든 글(“어쩌라고?”란 생각이 드는 게시글)&lt;/li&gt;
+  &lt;li&gt;아무런 부가적 내용 없이 이미지만 올라온 글&lt;/li&gt;
+  &lt;li&gt;이미지가 없거나 복수의 문단이 아닌 리뷰 게시글&lt;/li&gt;
+  &lt;li&gt;양식을 준수하지 않는 게시글&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;353-질문-게시글&quot;&gt;3.5.3. 질문 게시글&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;모든 질문성 게시글은 질문 게시판에 작성&lt;/li&gt;
+  &lt;li&gt;질문 게시글은 질문 게시판의 말머리에 대해서 준수&lt;/li&gt;
+  &lt;li&gt;어떠한 것에 대한 질문인지 내용에 포함&lt;/li&gt;
+  &lt;li&gt;떠한 것을 하려고 하는 것인지 대해서 질문 내용에 포함&lt;/li&gt;
+  &lt;li&gt;질문 내용에 본인의 상황에 대해서 상세하게 포함&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;36-친목성-행위&quot;&gt;3.6. 친목성 행위&lt;/h3&gt;
+
+&lt;h4 id=&quot;361-친목성-행위-기준&quot;&gt;3.6.1. 친목성 행위 기준&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;다른 회원이 낄 수 없는 자신들만 아는 내용을 이야기하는 경우&lt;/li&gt;
+  &lt;li&gt;오픈 채팅방 등에 대해서 언급 및 홍보, 공유하는 경우&lt;/li&gt;
+  &lt;li&gt;카카오톡 등 개인 메신저 ID, 전화번호를 공유하는 경우&lt;/li&gt;
+  &lt;li&gt;이모티콘 댓글이 답글 형식으로 3회 이상 지속하는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;362-친목성-행위-조치-대상&quot;&gt;3.6.2. 친목성 행위 조치 대상&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;친목성 행위 기준에 포함되는 모든 글 또는 댓글을 작성한 회원&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;37-지원-서버&quot;&gt;3.7. 지원 서버&lt;/h3&gt;
+
+&lt;h4 id=&quot;371-지원-서버란&quot;&gt;3.7.1. 지원 서버란?&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨로이드와 협력 중인 각종 서버를 말한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;372-지원-서버-혜택&quot;&gt;3.7.2. 지원 서버 혜택&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;게시판 링크 제공&lt;/li&gt;
+  &lt;li&gt;서버 공지사항 게시판 말머리 및 작성 권한&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;373-지원-서버-기타사항&quot;&gt;3.7.3. 지원 서버 기타사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;지원 서버 등록 방법은 “서버 이름, 서버 URL 주소, 서버 관리자 닉네임, 서버 관리자 네이버 ID, 서버 사양, 서버 OS, 서버 용량, 서버 유형, 서버 목적, 공식 서버 신청 사유”를 포함하여 이메일(develoid@naver.com)로 전달&lt;/li&gt;
+  &lt;li&gt;서버 폐쇄 등 변동사항은 “서버 이름, 서버 관리자 닉네임, 변동사항”을 포함하여 이메일(develoid@naver.com)로 전달&lt;/li&gt;
+  &lt;li&gt;문제시 되는 이슈·잦은 오류·일정기간 사용불가·장기간 관리 미흡 등 정상적으로 사용이 불가능하다 판단 될 경우 지원서버 등록 해제&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;38-제작팀-관련&quot;&gt;3.8. 제작팀 관련&lt;/h3&gt;
+
+&lt;h4 id=&quot;381-제작팀이란&quot;&gt;3.8.1. 제작팀이란&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨로이드 내에서 활동하고 있는 펌웨어, 애플리케이션, 서비스 등 개발 및 제작팀&lt;/li&gt;
+  &lt;li&gt;디벨로이드는 운영진에게 등록되어 있는 제작팀에 대해서 디벨로이드 내 활동을 보장하며, 규칙을 위반하지 않는 한 그 어떠한 간섭 및 이슈에 대해서 개입하지 않는다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;382-제작팀-신고사항&quot;&gt;3.8.2. 제작팀 신고사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;제작팀에서 신규 인원을 모집할 경우, “팀명, 팀장 닉네임, 팀장 네이버 ID, 모집 완료 일자”를 포함하여 이메일(develoid@naver.com)으로 신고하여야 한다.&lt;/li&gt;
+  &lt;li&gt;제작팀 등록은 “팀명, 팀장 닉네임, 팀장 네이버 ID, 팀원 목록(닉네임/네이버ID/담당), 설립 목적, 활동 방향, 포트폴리오, 규칙 준수 여부”를 포함하여 이메일(develoid@naver.com)로 요청한다.&lt;/li&gt;
+  &lt;li&gt;제작팀에서 변동사항(인원, 해체, 합병 등)이 있을 경우 “팀명, 팀장 닉네임, 변동사항, 변동사유”를 포함하여 이메일(develoid@naver.com)로 신고하여야 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;383-제작팀-준수사항&quot;&gt;3.8.3. 제작팀 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;신고 시스템을 이용, 운영진에게 특정 내용에 대해서 전달, 상호 협조 및 협력을 할 수 있어야 한다.&lt;/li&gt;
+  &lt;li&gt;디벨로이드 활동 전 팀에 관해서 소개 및 포트폴리오 등에 대해서 [제작팀 포럼] 게시판에 글을 작성해야 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;384-제작팀-전체-포럼&quot;&gt;3.8.4. 제작팀 전체 포럼&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;등록된 제작팀에 대해서 말머리(15자 내외)를 제공한다.&lt;/li&gt;
+  &lt;li&gt;제작팀 관련 게시글은 개별 포럼이 없는 한 전체 포럼에 작성해야 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;385-제작팀-개별-포럼&quot;&gt;3.8.5. 제작팀 개별 포럼&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;개발팀 또는 개인 개발자 중 6개월 이상 활동하였으며, 3개월 이내 제작 자료 5회 및 제작 자료 관련 글을 15회 이상 업로드했을 때에만 검토 후 생성&lt;/li&gt;
+  &lt;li&gt;기준 조건이 충족될 경우 “팀명, 팀장 닉네임, 활동 내용, 제작자료(자료/링크/설명), 게시판 필요 사유”를 포함하여 이메일(develoid@naver.com)로 접수해야 한다.&lt;/li&gt;
+  &lt;li&gt;새로 생성된 게시판에는 [팀 소개, 팀 공지, 팀 자료, 팀 강좌, 팀글, 팀 답변, 유저 후기, 유저 문의] 등 말머리를 생성하며, 추가로 필요로 할 경우 운영진에게 요청하여 생성 가능&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;386-제작팀-관련-기타사항&quot;&gt;3.8.6. 제작팀 관련 기타사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;제작팀 신고 관련해서 내용이 부족하다고 판단될 경우 운영진은 추가적 내용 보충을 요청할 수 있다.&lt;/li&gt;
+  &lt;li&gt;6개월 이상 활동 없는 팀에 대해서 운영진은 활동 확인 요청을 하며, 이후 1개월 이내 응답이 없으면 개별 게시판, 말머리, 등록 현황에서 제거를 시행&lt;/li&gt;
+  &lt;li&gt;디벨 내 등록하지 않고 활동하는 팀에 대해서 등록 안내 시행, 등록안내는 메일/쪽지/댓글을 통해서 발송하며, 1일 1회 발송&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;39-스터디채팅방&quot;&gt;3.9. 스터디채팅방&lt;/h3&gt;
+
+&lt;h4 id=&quot;391-스터디채팅방이란&quot;&gt;3.9.1. 스터디채팅방이란&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;IT 기술에 관련하여 한 부분에 대한 공부 목적으로 만들어진 채팅방&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;392-스터디채팅방-허가-기준&quot;&gt;3.9.2. 스터디채팅방 허가 기준&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;한 부분에 대해서 공부를 목적으로 하고 있는가?&lt;/li&gt;
+  &lt;li&gt;자율적인 친목성 행위 방지가 가능한가?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;393-스터디채팅방-승인-요청-방법&quot;&gt;3.9.3. 스터디채팅방 승인 요청 방법&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;“방장 닉네임, 방장 네이버 ID, 스터디채팅방 이름, 스터디채팅방 대화 주제, 스터디채팅방 목적, 규칙 준수 여부”을 포함하여 이메일(develoid@naver.com)로 요청한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;394-스터디채팅방-준수사항&quot;&gt;3.9.4. 스터디채팅방 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;네이버 카페 채팅(Naver Cafe Chat) 이외의 플랫폼을 사용하지 않는다.&lt;br /&gt;(운영진이 생성 후 방장 위임)&lt;/li&gt;
+  &lt;li&gt;스터디 주제 이외의 채팅을 절대 진행하지 않는다.&lt;/li&gt;
+  &lt;li&gt;채팅방 내 발생한 이슈에 대해서 디벨로이드로 절대 가져오지 않는다.&lt;/li&gt;
+  &lt;li&gt;개인의 사생활에 대해서 절대 공개하지 않는다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;395-스터디채팅방-관련-기타사항&quot;&gt;3.9.5. 스터디채팅방 관련 기타사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;스터디채팅방에서 위의 규칙들에 대해서 어겼을 경우 “친목성 행위”로 간주하고 참여한 모든 인원에게 조치를 실시하며, 모든 스터디채팅방과 제작자 소통 채팅방에 대해서 디벨로이드 내에서 금지한다.&lt;/li&gt;
+  &lt;li&gt;위의 규칙들에 대해서 준수되고 있는 한 디벨로이드 운영진은 일절 간섭하지 않는다.&lt;/li&gt;
+  &lt;li&gt;내부적으로 규칙이 위반되고 있는 것을 신고한 인원에 한정하여 조치를 실시하지 않는다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;310-제작자-소통-채팅방&quot;&gt;3.10. 제작자 소통 채팅방&lt;/h3&gt;
+
+&lt;h4 id=&quot;3101-제작자-소통-채팅방이란&quot;&gt;3.10.1. 제작자 소통 채팅방이란?&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;제작자가 유저에게 본인의 제작 관련 공지 및 근황에 대한 정보공유 및 간단한 테스트 등에 대해서 진행하는 채팅방&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3102-제작자-소통-채팅방-허가-기준&quot;&gt;3.10.2. 제작자 소통 채팅방 허가 기준&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;제작자 중심으로 공지 및 근황에 대한 정보공유, 간단한 테스트만을 목적으로 하는가?&lt;/li&gt;
+  &lt;li&gt;자율적인 친목성 행위 방지가 가능한가?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3103-제작자-소통-채팅방-승인-요청-방법&quot;&gt;3.10.3. 제작자 소통 채팅방 승인 요청 방법&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;“제작자 닉네임, 제작자 네이버 ID, 채팅방 이름, 채팅방 목적, 규칙 준수 여부”을 포함하여 이메일(develoid@naver.com)로 요청한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3104-제작자-소통-채팅방-준수사항&quot;&gt;3.10.4. 제작자 소통 채팅방 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;네이버 카페 채팅(Naver Cafe Chat) 이외의 플랫폼을 사용하지 않는다.&lt;br /&gt;(운영진이 생성 후 방장 위임)&lt;/li&gt;
+  &lt;li&gt;제작자가 제작하는 것에 대한 공지 및 근황, 테스트 이외의 이야기를 절대 진행하지 않는다.&lt;/li&gt;
+  &lt;li&gt;채팅방 내 발생한 이슈에 대해서 디벨로이드로 절대 가져오지 않는다.&lt;/li&gt;
+  &lt;li&gt;개인의 사생활에 대해서 절대 공개하지 않는다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3105-제작자-소통-채팅방-관련-기타사항&quot;&gt;3.10.5. 제작자 소통 채팅방 관련 기타사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;제작자 소통 채팅방에서 위의 규칙들에 대해서 어겼을 경우 “친목성 행위”로 간주하고 참여한 모든 인원에게 조치를 실시하며, 모든 스터디채팅방과 제작자 소통 채팅방에 대해서 디벨로이드 내에서 금지한다.&lt;/li&gt;
+  &lt;li&gt;위의 규칙들에 대해서 준수되고 있는 한 디벨로이드 운영진은 일절 간섭하지 않는다.&lt;/li&gt;
+  &lt;li&gt;내부적으로 규칙이 위반되고 있는 것을 신고한 인원에 한정하여 조치를 실시하지 않는다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;311-자료-공유&quot;&gt;3.11. 자료 공유&lt;/h3&gt;
+
+&lt;h4 id=&quot;3111-규칙-대상-범위&quot;&gt;3.11.1. 규칙 대상 범위&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;애플리케이션(Application)&lt;/li&gt;
+  &lt;li&gt;테마(Theme)&lt;/li&gt;
+  &lt;li&gt;펌웨어(Firmware)&lt;/li&gt;
+  &lt;li&gt;롬(Rom)&lt;/li&gt;
+  &lt;li&gt;모드(Mod)&lt;/li&gt;
+  &lt;li&gt;배경화면(Wallpaper)&lt;/li&gt;
+  &lt;li&gt;OS(Operation System)&lt;/li&gt;
+  &lt;li&gt;트윅(Tweak)&lt;/li&gt;
+  &lt;li&gt;강좌(Guide)&lt;/li&gt;
+  &lt;li&gt;이외 기타 콘텐츠(Contents)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3112-자료-공유-관련-주의사항&quot;&gt;3.11.2. 자료 공유 관련 주의사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;원출처 명시&lt;/li&gt;
+  &lt;li&gt;유료 판매로 되는 자료일 경우 업로드 금지 및 해당 자료의 판매 링크 게시&lt;/li&gt;
+  &lt;li&gt;유료 판매 자료의 일부분 무단 사용 금지&lt;/li&gt;
+  &lt;li&gt;자료 적용(사용) 시 발생할 수 있는 모든 이슈(문제) 명시&lt;/li&gt;
+  &lt;li&gt;이슈(문제)에 대해 명시되어 있으면 자료 적용(사용) 시 발생하는 사항은 적용(사용)자 책임&lt;/li&gt;
+  &lt;li&gt;본인 창작·제작이 아닌 자료에 대해서 한정공유·권리 주장 금지&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3113-삼성-테마-관련&quot;&gt;3.11.3. 삼성 테마 관련&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;삼성 테마 서비스에 업로드되어있는 테마는 업로드가 불가능하며 해당 테마의 판매 링크 게시&lt;/li&gt;
+  &lt;li&gt;삼성 테마 서비스에 업로드되어있지 않는 테마는 업로드 허용&lt;/li&gt;
+  &lt;li&gt;5분 사용제한 해제 관련 공유 금지&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3114-기타사항&quot;&gt;3.11.4. 기타사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;유료 판매되고 있는 자료의 무단 사용 일 경우 저작권 규칙에 근거하여 조치(일부분 포함)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;312-뉴스기사-스크랩&quot;&gt;3.12. 뉴스(기사) 스크랩&lt;/h3&gt;
+
+&lt;h4 id=&quot;3121-저작권-관련-준수사항&quot;&gt;3.12.1. 저작권 관련 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;저작권법 제29조(영리를 목적으로 하지 아니하는 공연·방송)·제30조(사적 이용을 위한 복제)·제37조(출처의 명시)에 근거하여 아래의 항목에 대해서 준수해야 한다.&lt;/li&gt;
+  &lt;li&gt;출처 및 URL 링크 명시 또는 언론사 이름 및 기자 성함 명시&lt;/li&gt;
+  &lt;li&gt;뉴스 게시글의 내용을 바탕으로 요약 작성 또는 뉴스 내용 중 일부 발췌 및 개인 의견 작성&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3122-기타-준수사항&quot;&gt;3.12.2. 기타 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;광고성 포스트·게시글 스크랩 등 금지(제품 추천·이벤트 안내 등)&lt;/li&gt;
+  &lt;li&gt;내용이 같은 기사 2개 이상 스크랩 금지&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;3122-조치&quot;&gt;3.12.2. 조치&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;IT 뉴스 &amp;amp; 소식 게시판을 기준으로 아래 5개 이내에 중복 글 있으면 삭제 조치, 단 개인 의견이 3문장 이상 포함되어있을 경우 예외처리&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;4-디벨로이드-운영-특수규칙&quot;&gt;4. 디벨로이드 운영 특수규칙&lt;/h1&gt;
+
+&lt;h3 id=&quot;41-디벨로이드-운영&quot;&gt;4.1. 디벨로이드 운영&lt;/h3&gt;
+
+&lt;h4 id=&quot;411-운영진-판단하에-문제가-있다고-생각되는-행위&quot;&gt;4.1.1. 운영진 판단하에 문제가 있다고 생각되는 행위&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진 3인 이상 판단해서 문제가 있다고 판단되는 경우, 운영진 논의 후 임의적 조치 시행 가능&lt;/li&gt;
+  &lt;li&gt;본 규칙을 바탕으로 조치된 인원은 디벨톡톡을 통해서만 이의제기를 시행할 수 있으며, 운영진은 판단에 참여한 인원 외 다른 인원이 재검토를 한다.&lt;/li&gt;
+  &lt;li&gt;본 규칙을 바탕으로 조치를 할 경우 메일/쪽지를 통해서 조치내역을 전달해야 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;412-자료수집&quot;&gt;4.1.2. 자료수집&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진은 이슈에 대한 해결을 목적으로 자료 수집을 진행할 수 있다.&lt;/li&gt;
+  &lt;li&gt;수집된 자료는 운영진 외 공유하지 않으며, 예외적으로 수집 대상 회원이 요청할 경우 공유할 수 있다.&lt;/li&gt;
+  &lt;li&gt;수집된 자료에 대해서 이슈 조치가 완료될 경우 개인정보 보호 차원에서 즉각 폐기한다.&lt;/li&gt;
+  &lt;li&gt;회원이 자체적으로 글을 삭제한 경우 수집이 불가능함에 따라서, 회원에게 요청을 시행할 수 있다.&lt;/li&gt;
+  &lt;li&gt;운영진이 자료 수집이 불가능한 경우 운영진 회의를 통해서 논의 후 조치를 시행할 수 있다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;413-재검토방침&quot;&gt;4.1.3. 재검토방침&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;모든 재검토 요청은 디벨모두(톡톡)를 통해서 신청받는다.&lt;/li&gt;
+  &lt;li&gt;회원은 자신의 게시글에 대한 조치가 부당하다고 판단될 경우, 운영진에게 재검토 요청을 할 수 있다.&lt;/li&gt;
+  &lt;li&gt;운영진은 재검토 요청이 왔을 경우, 조치한 운영진을 제외한 3명의 운영진이 재검토하며, 조치가 합당했는가 부당했는가를 검토한다.&lt;/li&gt;
+  &lt;li&gt;재검토 시행 후 3명의 운영진 전부가 “처리가 합당하지 않다”라고 판정하는 경우에 대해서만 복구조치를 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;414-블라인드&quot;&gt;4.1.4. 블라인드&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진은 이슈 게시글에 대한 분쟁 방지 및 신속한 조치의 목적으로 아래의 항목을 준수하여 게시글 블라인드를 실시할 수 있다.&lt;/li&gt;
+  &lt;li&gt;블라인드 실시 사유에 대해서 해당 게시글에 답글(글 제목 안내)을 작성하여 해당 사항에 대해 안내한다.&lt;/li&gt;
+  &lt;li&gt;디벨로이드 운영 규칙에 어긋나는 항목이 있을 경우&lt;/li&gt;
+  &lt;li&gt;운영진 3명 이상이 검토하여 문제가 있다고 판단될 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;415-게시글-댓글-사용-중지-지시&quot;&gt;4.1.5. 게시글 댓글 사용 중지 지시&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;운영진은 이슈에 대한 확산 방지 목적으로 아래의 항목을 준수하여 게시글 댓글 사용 중지 지시를 할 수 있다.&lt;/li&gt;
+  &lt;li&gt;디벨로이드 운영 규칙에 어긋나는 항목이 있을 경우&lt;/li&gt;
+  &lt;li&gt;운영진 3명 이상이 검토하여 문제가 있다고 판단될 경우&lt;/li&gt;
+  &lt;li&gt;분쟁 발생의 위험성이 크다고 판단될 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;42-디벨톡톡&quot;&gt;4.2. 디벨톡톡&lt;/h3&gt;
+
+&lt;h4 id=&quot;421-디벨톡톡이란&quot;&gt;4.2.1. 디벨톡톡이란&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨로이드 운영 관련하여 운영진에게 문의·건의·신고 등 항목에 대해서 더욱 빠르게 소통하기 위해 생성된 서비스&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;422-디벨톡톡-준수사항&quot;&gt;4.2.2. 디벨톡톡 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;본 서비스는 고객센터(114)가 아니며, 문의·건의·신고·이의제기 등에 대해서 답변한다.&lt;/li&gt;
+  &lt;li&gt;디벨톡톡은 디벨로이드에서 제공하는 서비스이기 때문에 디벨 규칙의 적용을 받는다.&lt;/li&gt;
+  &lt;li&gt;본 서비스 이용 중 반말·욕설 등 비매너적인 행동에 대해서 영구 차단 조치를 실시한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;43-조치감면&quot;&gt;4.3. 조치감면&lt;/h3&gt;
+
+&lt;h4 id=&quot;431-조치감면-대상&quot;&gt;4.3.1. 조치감면 대상&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨로이드 내 무기한 활동정지 조치를 받은 후 6개월 이상 시간이 지난 인원&lt;/li&gt;
+  &lt;li&gt;디벨로이드 내 재가입 불가 탈퇴 조치를 받은 후 12개월 이상 시간이 지난 인원&lt;/li&gt;
+  &lt;li&gt;이전에 처벌감면을 받지 않은 인원&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;432-조치감면-시-준수사항&quot;&gt;4.3.2. 조치감면 시 준수사항&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;조치감면 신청 시 다시는 조치된 일들이 재발하지 않도록 약속해야 한다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;433-조치감면-방법&quot;&gt;4.3.3. 조치감면 방법&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;디벨모두(톡톡)를 통해서 접수&lt;/li&gt;
+  &lt;li&gt;운영진의 절반 이상 참여하여 검토 후 조치 감면 시행&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;44-조치-누적제도&quot;&gt;4.4. 조치 누적제도&lt;/h3&gt;
+
+&lt;h4 id=&quot;441-무기한-활동정지-하는-경우&quot;&gt;4.4.1. 무기한 활동정지 하는 경우&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;한 이슈에 대해서 활동정지 실시할 경우, 합산된 조치 일수가 30일 초과하는 경우&lt;/li&gt;
+  &lt;li&gt;카페시스템 카운트 기준으로 중대한 규칙(활동정지 20일 이상)을 2회 초과 위반한 경우&lt;/li&gt;
+  &lt;li&gt;이전 활동정지 내역과 현재 조치될 활동정지 일수 합산이 60일을 넘어가는 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;442-재가입-불가-탈퇴-처리하는-경우&quot;&gt;4.4.2. 재가입 불가 탈퇴 처리하는 경우&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;활동 정지 조치 받은 회원 또는 카페 내 규칙 위반하고 물의를 일으킨 회원이 규칙에 근거한 조치에 대한 회피 목적으로 커뮤니티를 탈퇴하였을 경우&lt;/li&gt;
+  &lt;li&gt;이전 활동정지 내역과 현재 조치될 활동정지 일수 합산이 80일을 초과하는 경우&lt;/li&gt;
+  &lt;li&gt;조치 감면된 인원이 디벨로이드 내에서 활동정지 20일 이상의 조치를 받을 경우&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;본 규칙은 디벨로이드 내부 규칙이며, 디벨로이드 외부에서 사용할 수 없습니다.&lt;/p&gt;
+
+&lt;p&gt;본 규칙은 디벨로이드 내부에서만 공유될 수 있으며, 복사·캡쳐 등으로 외부로 공유하실 수 없습니다.&lt;/p&gt;
+
+&lt;p&gt;작성일 : 2018.05.29&lt;/p&gt;
+
+&lt;p&gt;적용일 : 2018.06.16&lt;/p&gt;
+
+&lt;p&gt;개정일 : 2018.07.29&lt;/p&gt;
+
+&lt;p&gt;수정일 : 2018.09.27&lt;/p&gt;
+
+&lt;p&gt;작성자 : 디벨로이드 운영진&lt;/p&gt;</content><author><name>[&quot;SiRyuA&quot;, &quot;Ellen&quot;]</name></author><summary type="html"></summary></entry><entry><title type="html">서버 등록</title><link href="http://localhost:4000/server-add.html" rel="alternate" type="text/html" title="서버 등록" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/server-add</id><content type="html" xml:base="http://localhost:4000/server-add.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
 
 &lt;script&gt;
 location.href = &quot;mailto:develoid@naver.com&quot;
@@ -100,18 +764,4 @@ location.href = &quot;mailto:develoid@naver.com&quot;
 
 &lt;p&gt;&lt;img src=&quot;/postImage/server.png&quot; alt=&quot;Server&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;크게보기&quot;&gt;&lt;a href=&quot;/postImage/server.png&quot;&gt;크게보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>SiRyuA</name></author><summary type="html"></summary></entry><entry><title type="html">스터디 채팅방</title><link href="http://localhost:4000/study-chat.html" rel="alternate" type="text/html" title="스터디 채팅방" /><published>2018-09-29T00:00:00+09:00</published><updated>2018-09-29T00:00:00+09:00</updated><id>http://localhost:4000/study-chat</id><content type="html" xml:base="http://localhost:4000/study-chat.html">&lt;h3 id=&quot;잠시-후-메일-앱이-열립니다&quot;&gt;잠시 후 메일 앱이 열립니다.&lt;/h3&gt;
-
-&lt;script&gt;
-location.href = &quot;mailto:develoid@naver.com&quot;
-              + &quot;?cc=&quot;
-      + &quot;&amp;subject=&quot;
-              + &quot;[스터디채팅방] 허가 요청합니다.&quot;
-              + &quot;&amp;body=&quot;
-              + &quot;%40 방장 닉네임 %0D%0A%0D%0A%0D%0A&quot;
-      + &quot;%40 방장 네이버 ID %0D%0A%0D%0A%0D%0A&quot;
-      + &quot;%40 스터디채팅방 이름 %0D%0A%0D%0A%0D%0A&quot;
-      + &quot;%40 스터디채팅방 대화 주제 %0D%0A%0D%0A%0D%0A&quot;
-      + &quot;%40 스터디채팅방 목적 %0D%0A%0D%0A%0D%0A&quot;
-      + &quot;%40 규칙 준수 여부 %0D%0A%0D%0A%0D%0A&quot;;
-&lt;/script&gt;</content><author><name>SiRyuA</name></author><summary type="html">잠시 후 메일 앱이 열립니다.</summary></entry></feed>
+&lt;h3 id=&quot;크게보기&quot;&gt;&lt;a href=&quot;/postImage/server.png&quot;&gt;크게보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>SiRyuA</name></author><summary type="html"></summary></entry></feed>
