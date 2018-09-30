@@ -10,7 +10,7 @@ author: SiRyuA
 <script>
   location.href = "mailto:develoid@naver.com"
                 + "?cc="
-				+ "&subject="
+	              + "&subject="
                 + "[파트너쉽] 문의/신청 드립니다"
                 + "&body="
                 + "";
