@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 page_title: Q&A
 permalink: /qna/
 ---

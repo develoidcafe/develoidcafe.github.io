@@ -20,13 +20,6 @@
 }
 .clearfix:after { clear: both; }
 
-html,
-body {
-    margin:0;
-    padding:0;
-    height:100%;
-}
-
 body {
   font-family: "NanumSquare", sans-serif;
   background: #FAFAFA;
@@ -51,24 +44,14 @@ input {
 
 /* SRA Style DVLOPv1 */
 
-.wrapper {
-	position:relative;
-  min-height:100%;
-}
-
 nav,
+.container,
 footer {
   width:100%;
 }
 
 .container {
-  padding: 40px 0 80px;
-}
-
-footer {
-  position:absolute;
-  bottom:0;
-  background: #212121;
+  margin:80px 0 40px;
 }
 
 .nav,
@@ -90,16 +73,6 @@ footer {
 
 .footer {
   text-align: center;
-  color: #fff;
-}
-
-.footer a {
-  color: #fff;
-  transition: 0.5s;
-}
-
-.footer a:hover {
-  color: #0091EA;
 }
 
 .content {
@@ -110,13 +83,8 @@ footer {
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
 }
 
-.content ul {
-  margin: 12px 0 12px 48px;
-}
-
-.content li {
-  margin: 6px 0;
-}
+ul, ol { margin: 12px 0 12px 48px; }
+li { margin: 6px 0; }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 24px;
@@ -131,6 +99,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: wrap;
   justify-content: space-around;
+  padding:0 10px;
 }
 
 .qnaitem {
@@ -155,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media only screen and (max-width: 1024px) {
   .container {
-    padding: 20px 0 80px;
+    margin:40px 0 10px;
   }
 
   .content {
@@ -172,5 +141,12 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 0 6px;
     padding: 34px 0 0;
     font-size:24px;
+  }
+
+  ul, ol { margin: 6px 0 6px 24px; }
+  li { margin: 4px 0; }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 12px;
   }
 }
