@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 디벨로이드 운영지원
+title: 디벨로이드
 author: Develoid
 email: siryua@develoid.net
 keywords: 디벨로이드, Develoid, 스마트 IT 커뮤니티, 개발, 리뷰, 안드로이드, 아이폰, 갤럭시, 트레블, 루팅, 커스텀롬, PC, 프로그래밍

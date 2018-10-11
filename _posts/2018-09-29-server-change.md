@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: mail
 title:  "서버 변동"
 date:   2018-09-29 00:00:00 +0900
 author: SiRyuA
 ---
-
-### 잠시 후 메일 앱이 열립니다.
 
 <script>
 location.href = "mailto:develoid@naver.com"

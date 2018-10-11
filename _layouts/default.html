@@ -2,10 +2,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "kr" }}">
   {% include head.html %}
   <body>
-    {% include nav.html %}
-    <div class="container">
-      {{ content }}
+    <div class="wrapper ">
+      {% include nav.html %}
+      <div class="container">
+        {{ content }}
+      </div>
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
   </body>
 </html>
