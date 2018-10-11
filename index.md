@@ -2,8 +2,9 @@
 layout: default
 page_title: HOME
 ---
-<div class="content" style="text-align:center;padding:20px 0;vertical-align: middle;">
-  <h3>잠시 후 디벨로이드로 이동합니다.</h3>
+<div class="mail">
+  <h3>운영 Github</h3>
+  <h1>잠시 후 디벨로이드로 이동합니다.</h1>
 </div>
 
 <script>
